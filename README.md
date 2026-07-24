@@ -49,7 +49,7 @@ During this internship, I learned:
 
 ### Open the Project
 
-Simply open the `portfolio.html` file in your browser.
+Simply open the `index.html` file in your browser.
 
 No additional installation is required.
 
